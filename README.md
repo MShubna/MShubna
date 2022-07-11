@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MShubna
 - 👀 I’m interested in OOP
-- 🌱 I’m currently learning C# backend and React frontend
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently busy with .NET
 - 📫 How to reach me msshubna@gmail.com
 
 <!---
