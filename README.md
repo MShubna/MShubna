@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MShubna
-- 👀 I’m interested in OOP
+- 👀 I’m interested in Software development
 - 🌱 I’m currently busy with .NET
 - 📫 How to reach me msshubna@gmail.com
 
